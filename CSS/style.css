@@ -1,0 +1,158 @@
+*{
+    box-sizing: border-box;
+    margin: 30px;
+}
+header{
+    position: relative;
+    height:120px;
+    margin:25px;
+    padding :50px;
+    border-bottom-style: 5px, dashed, darkgrey;
+}
+header div{
+    margin: 30px;
+    
+    position: absolute;
+    top:30%;
+    right: 3%;
+    
+}
+#pic7{
+    margin-left: 10px;
+}
+#logo{
+    position: absolute;
+    top:35%;
+    left:3%;
+}
+header h1{
+    position: absolute;
+    top:35%;
+    left:6.3%;
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Pacifico', cursive;
+}
+header p{
+    position: absolute;
+    top:58%;
+    left:6.3%;
+    font-size: 15px;
+    font-family: 'Pacifico', cursive;
+    color: darkgrey;
+}
+
+.break{
+    background-image: url("../images/hr-img.png");
+    background-repeat: repeat;
+    height:40%;
+    width:100%;
+    margin: 1% 0 0 1%;
+    padding: 1% 0 0 1%;
+
+}
+main h1 {
+
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
+    font-weight:bold;
+}
+main h6{
+    position: absolute;
+    top:2.5%;
+    font-family: 'Russo One', sans-serif;
+    font-size: 15px;
+   color:darkgrey;
+   
+
+}
+main {
+    position: relative;
+}
+#ps{
+   
+    color :darkgrey;
+    position: absolute;
+
+    right:3%
+    
+   
+    
+}
+#psi{
+    position: absolute;
+    right:6%;
+    top: 2%;
+}
+main section{
+   
+    margin-top: 200px; 
+    margin:0 auto;
+    
+   
+}
+#main{
+    width:100%;
+    margin-top: 70px;
+}
+article p{
+    position: relative;
+    margin: 20px;
+    text-align: center;
+    color: darkgrey;
+    font-family: 'Russo One', sans-serif;
+}
+form{
+    font-family: 'Russo One', sans-serif;
+    background-image: url("../images/list-bg.png");
+    background-repeat:no-repeat;
+    background-position: center;
+}
+form input, label{
+    
+    position: relative;
+    left: 25%;
+    top: 0;
+   /* margin-left: 20%;   */
+}
+
+main div img{
+    position: relative;
+    top:20px;;
+    left:10px;
+}
+button{
+    width: 170px;
+    height: 40px;
+    background-color: lightsalmon;
+    position: absolute;
+    bottom: 0;
+    right:20px;
+}
+main div{
+    height:100px;
+}
+main div h3{
+    font-family: 'Russo One', sans-serif;
+    font-style: italic;
+    font-size: 25px;
+    position: absolute;
+    left: 100px;
+    bottom:40px;
+}
+main div p{
+    font-family: 'Russo One', sans-serif;
+    font-style: italic;
+    font-size: 15px;
+    position: absolute;
+    left: 100px;
+    bottom:15px;
+
+}
+footer{
+    text-align: center;
+    
+    color: darkgrey;
+  
+
+}
